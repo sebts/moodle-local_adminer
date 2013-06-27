@@ -25,8 +25,8 @@
 
 defined('MOODLE_INTERNAL') || die;
 
-$plugin->version  = 2011040401;
-$plugin->release = '0.1 (2011122501)';
+$plugin->version  = 2012060301;
+$plugin->release = '0.1 (2012060301)';
 $plugin->requires = 2010112400;
 $plugin->maturity = MATURITY_BETA;
 $plugin->component = 'local_adminer';

@@ -21,3 +21,8 @@ After that you have to go to http://your-moodle/admin (Site administration -> No
 
 Using:
 To use Moodle Adminer go to "Site administration" -> "Server" -> "Moodle Adminer".
+
+changes in 20120603
+- it is based on adminer-3.4.0-dev
+- now it works correctly again in google chrome
+- the query textarea can syntax highlighting
